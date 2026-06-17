@@ -1,3 +1,4 @@
+// Force fresh build on Netlify
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   eslint: {
